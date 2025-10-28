@@ -14,7 +14,7 @@
 
 ```toml
 [dependencies]
-task_sched = { path = https://github.com/kouliang/task_sched }
+task_sched = { git = https://github.com/kouliang/task_sched }
 ```
 
 ### 最简示例
